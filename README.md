@@ -28,7 +28,7 @@ I have devised a **business objective**, which is to develop a classification mo
 - Loan purpose and term
 - Default status (target variable)
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.9+**
 - **Data Analysis:** pandas, numpy
@@ -37,7 +37,7 @@ I have devised a **business objective**, which is to develop a classification mo
 - **Environment:** Jupyter Notebooks
 
 
-## 📊 Analysis Workflow
+## Analysis Workflow
 
 ### 1. Exploratory Data Analysis
 - Data quality assessment
